@@ -1,4 +1,4 @@
-# Multiple Object Tracking
+# Multiple Object Tracking (MOT) - FairMOT
  
 Multiple Object Tracking (MOT) involves tracking multiple objects in a video using bounding boxes and assigning unique IDs to each object. FairMOT, a state-of-the-art MOT model, was implemented with the MOT-17 dataset, a popular dataset for MOT benchmarking and evaluation. Based on the FairMOT paper and code adapted from the FairMOT repository, the trained models can track multiple objects in a video efficiently. We will track pedestrians in a video using the FairMOT model in this code. 
 
